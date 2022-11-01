@@ -31,9 +31,24 @@ a:hover{text-decoration: underline;}
 a:active{color: gray;}
 a:visited{color:rosybrown}
 
-.table {
+.tabl {
+
 
 }
+
+.tabl table{
+
+}
+
+.tabl tr{
+
+}
+
+.tabl th{
+
+}
+
+
 
 .site_img{
     max-width: 256px;
