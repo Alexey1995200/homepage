@@ -1,0 +1,63 @@
+body{
+
+    background-color: #26292a;
+    background-image: url(../backgrounds/shattered-island.gif);
+
+}
+
+.form-search{
+
+}
+.form-search input{
+    width: 25%;
+    border: 0;
+    margin: 16px 8px 8px 8px;
+    background: transparent;
+    color: #fff;
+    border-bottom: 1px #fff;
+    outline: none;
+
+}
+
+.form-search input:nth-child(2){
+max-width: 64px;
+background-color: #26292a;
+cursor: pointer;
+}
+
+a{
+    color: azure;
+}
+
+a:hover{text-decoration: underline;}
+a:active{color: gray;}
+a:visited{color:rosybrown}
+
+.table {
+
+}
+
+.site_img{
+    max-width: 256px;
+    max-height: 64px;
+    
+}
+
+hr{
+    padding: 0 0 0 0;
+    border 1px;
+    margin: 8px 0px 0px 0px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

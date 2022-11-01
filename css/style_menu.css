@@ -1,0 +1,49 @@
+ td a {
+	background-color: gray; 
+	display: block; 
+}
+ 
+
+#leftmenu {
+	position : relative;
+	left : 0px;
+	right : 0px;
+	width : 100%;
+	height: 100%;
+	padding: 0px;
+	padding-bottom : 0px;
+}
+
+#leftmenu ul {
+	margin : 0px;	
+	padding : 0px;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom : 0px;
+}
+
+#leftmenu li {
+	font-size: 16px;
+}
+
+#leftmenu a:active,
+#leftmenu a:visited,
+#leftmenu a:link {
+	background-color: #1a1a1a;
+	display : block;
+	color : #fff;
+	text-decoration : none;	
+	margin-right : 0px;
+	padding : 6px;
+}
+
+#leftmenu a:hover {
+	background-color : silver;
+}
+
+.LeftCell
+{
+	width: 200px;
+	vertical-align: top;
+}
